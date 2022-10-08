@@ -1,0 +1,6 @@
+# See http://lists.debian.org/debian-devel-announce/2005/11/msg00010.html
+libid3-3.8.3v5: package-name-doesnt-match-sonames libid3-3.8-3
+# This is just binary data which looks like a spelling error
+libid3-3.8.3v5: spelling-error-in-binary usr/lib/x86_64-linux-gnu/libid3-3.8.so.3.0.0 tEH the
+# The address is indeed wrong in the upstream sources
+libid3-3.8.3v5: old-fsf-address-in-copyright-file
