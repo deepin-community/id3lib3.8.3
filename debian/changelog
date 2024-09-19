@@ -1,3 +1,9 @@
+id3lib3.8.3 (3.8.3-16.3deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 19 Sep 2024 22:49:47 +0800
+
 id3lib3.8.3 (3.8.3-16.3) unstable; urgency=medium
 
   * Non maintainer upload by the Reproducible Builds team.
